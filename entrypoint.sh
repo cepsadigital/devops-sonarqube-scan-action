@@ -13,6 +13,6 @@ else
 		-Dsonar.host.url=${INPUT_HOST} \
     		-Dsonar.projectBaseDir=${INPUT_PROJECTBASEDIR} \
     		-Dsonar.login=${INPUT_LOGIN} \
-    		-Dsonar.password=${INPUT_PASSWORD}
+    		-Dsonar.password=${INPUT_PASSWORD} \
 		-Dsonar.branch.name=${GITHUB_REF}
 fi
