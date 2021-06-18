@@ -1,4 +1,4 @@
-# SonarQube Scan GitHub Action 1.0.0
+# SonarQube Scan GitHub Action 1.0.1
 
 The `github-action-devops-sonar-scan` Github Action will scan your code with SonarQube to detects bugs, vulnerabilities and code smells.
 
